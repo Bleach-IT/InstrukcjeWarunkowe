@@ -1,0 +1,2 @@
+# InstrukcjeWarunkowe
+Instrukcje warunkowe python
